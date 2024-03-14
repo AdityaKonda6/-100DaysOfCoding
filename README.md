@@ -81,6 +81,7 @@ Starting the new journey of coding make sure you check it out
   </a>
 </p>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaKonda6&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" alt="AdityaKonda6" /></p>
+   <p align="center"><img align="center" src="https://leetcard.jacoblin.cool/adityakonda04?theme=dark&font=Coda%20Caption&ext=heatmap" /></p>
 </details>
 
 ---
